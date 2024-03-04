@@ -3,6 +3,8 @@
 #identifier = "home"
 #name = "Home"
 #url = "/"
+#weight = 1
+
 #[main.params]
 #icon = "home"
 #newtab = true

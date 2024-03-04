@@ -1,10 +1,10 @@
 ---
-title: Example Category
-description: A description of this category
+title: Coding Tutorials
+description: 
 image:
 
 # Badge style
 style:
-    background: "#2a9d8f"
+    background: "#23D58A"
     color: "#fff"
 ---

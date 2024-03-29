@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bae26063af19d5e0",
+        "id": "ad40b15d0115483d",
         "type": "tabs",
         "children": [
           {
-            "id": "c3e1226e21e59b0e",
+            "id": "f0debd0dac00866a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Hello World.md",
+                "file": "content/post/C#variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/Hello World.md",
+                "file": "content/post/C#variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/Hello World.md",
+                "file": "content/post/C#variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/Hello World.md"
+                "file": "content/post/C#variables.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3e1226e21e59b0e",
+  "active": "f0debd0dac00866a",
   "lastOpenFiles": [
+    "Tutorial/hello-world/index.md",
+    "favicon.png",
     "img/avatar.png",
     "img",
     "config/_default/img/avatar.png",

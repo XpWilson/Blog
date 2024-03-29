@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "#e1e5fe",
+  "cssTheme": "Border",
+  "baseFontSize": 16,
+  "showViewHeader": false
 }

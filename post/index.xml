@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Wilson De Jesus Castillo</title><link>https://wilsoncastillo-blog.netlify.app/post/</link><description>Recent content in Posts on Wilson De Jesus Castillo</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 23 Mar 2024 12:25:26 -0400</lastBuildDate><atom:link href="https://wilsoncastillo-blog.netlify.app/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World!</title><link>https://wilsoncastillo-blog.netlify.app/p/hello-world/</link><pubDate>Mon, 04 Mar 2024 15:07:45 -0500</pubDate><guid>https://wilsoncastillo-blog.netlify.app/p/hello-world/</guid><description>&lt;p>Hello, this is my new blog site! This will be the source where I will be posting several pieces of content freely available online. What will be discussed here? Well, anything that piques my interest! Game development, shader breakdowns and programming tutorials are just the tip of the iceberg. I want this site to be something like an open diary of sorts where I can pick at something.&lt;/p>
+&lt;p>Enough rambling from me. You&amp;rsquo;re all welcome to the ride so I hope you stick around!&lt;/p>
+&lt;p>Below are my links to see where I am online!&lt;/p></description></item><item><title>Unity Variable Data Types</title><link>https://wilsoncastillo-blog.netlify.app/p/unity-variable-data-types/</link><pubDate>Sat, 23 Mar 2024 12:25:26 -0400</pubDate><guid>https://wilsoncastillo-blog.netlify.app/p/unity-variable-data-types/</guid><description>&lt;img src="https://wilsoncastillo-blog.netlify.app/post/C/variables.jpg" alt="Featured image of post Unity Variable Data Types" />&lt;p>Hello, welcome to my first official post for my new blog.
+Let&amp;rsquo;s start with a basic breakdown of data types for Unity scripting. Think of it like a cheat sheet of sorts to check on now and then.&lt;/p>
+&lt;p>With C#, data types are used to define the type of data that a variable can hold. We&amp;rsquo;re looking through Unity Engine specifically because it uses C# as its primary programming language. Here are some of the basic data types you’ll encounter when scripting. To get started with creating a script, right-click on the project window and click on Create -&amp;gt; C# script.&lt;/p>
+&lt;h2 id="basic-data-types">
+&lt;a href="#basic-data-types">#&lt;/a>
+Basic Data Types
+&lt;/h2>&lt;h3 id="integers">
+&lt;a href="#integers">#&lt;/a>
+Integers
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">int score = 0;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>An int or integer is a data type that holds a whole number, positive or negative. Important note is that ints cannot be decimals, only whole numbers here.&lt;/p>
+&lt;h3 id="floats">
+&lt;a href="#floats">#&lt;/a>
+Floats
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">float speed = 5.5f;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>A float represents a floating-point number, the main difference between an int and a float is that floats can have decimal points. Append an ‘f’ at the end to signal to Unity that it is a float.&lt;/p>
+&lt;h3 id="booleans">
+&lt;a href="#booleans">#&lt;/a>
+Booleans
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">bool isJumping = false;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>A bool or boolean represents a state that can be either true or false.&lt;/p>
+&lt;h3 id="strings">
+&lt;a href="#strings">#&lt;/a>
+Strings
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">string playerName = &amp;#34;Alex&amp;#34;;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>A string represents a sequence of characters. For Unity, you might use strings to store names, UI text, currency names or more.&lt;/p>
+&lt;h2 id="advanced-data-types">
+&lt;a href="#advanced-data-types">#&lt;/a>
+Advanced Data Types
+&lt;/h2>&lt;h3 id="colors">
+&lt;a href="#colors">#&lt;/a>
+Colors
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">Color backgroundColor = Color.red;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>The Color data type stores values for Red, Green, Blue, and Alpha (transparency).&lt;/p>
+&lt;h3 id="arrays">
+&lt;a href="#arrays">#&lt;/a>
+Arrays
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">int[] scores;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>An array is a collection of variables of the same type. You can store multiple values in a single array variable. In Unity, you can add or remove entries of an array within the inspector. Remember, arrays will start with the data entry of 0, not 1.&lt;/p>
+&lt;h3 id="lists">
+&lt;a href="#lists">#&lt;/a>
+Lists
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">List&amp;lt;int&amp;gt; scores;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>A List is similar to an array but with additional functionality such as adding and removing elements at runtime.&lt;/p>
+&lt;h3 id="dictionaries">
+&lt;a href="#dictionaries">#&lt;/a>
+Dictionaries
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">Dictionary&amp;lt;string, int&amp;gt; inventory;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>A Dictionary is a collection of key-value pairs. For example, you might use a dictionary to store an inventory of items, where the item name is the key and the quantity is the value.&lt;/p>
+&lt;h3 id="vector3">
+&lt;a href="#vector3">#&lt;/a>
+Vector3
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">Vector3 playerPosition = new Vector3(0, 0, 0);
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>A Vector3 represents a three-dimensional vector, commonly used for positions, directions, and more in 3D space.&lt;/p>
+&lt;h2 id="protection-levels">
+&lt;a href="#protection-levels">#&lt;/a>
+Protection levels
+&lt;/h2>&lt;h3 id="public">
+&lt;a href="#public">#&lt;/a>
+Public
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">public int score = 0;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>Public data types are like open fields in your code. Any script when given a reference can access and modify the specified variable directly. You will also see any publicly defined variables within the inspector menu back in Unity.&lt;/p>
+&lt;h3 id="private">
+&lt;a href="#private">#&lt;/a>
+Private
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">private int score = 0;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>Private data types are exclusive to the script they&amp;rsquo;re declared in. Other scripts can&amp;rsquo;t &lt;strong>directly&lt;/strong> access them. One note is that an effect of a variable becoming private is that it will not appear in the inspector menu back in the Unity Editor.&lt;/p>
+&lt;p>These are just a few of the many different variables you will use when scripting in Unity. If you want a deeper dive into variable types with components, please use the official Unity documentation linked below.&lt;/p>
+&lt;p>Sources:
+Unity Docs&lt;/p></description></item></channel></rss>

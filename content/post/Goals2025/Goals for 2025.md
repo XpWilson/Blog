@@ -2,13 +2,14 @@
 title: Goals for 2025
 description: My goals for Next Year
 date: 2024-12-31T11:07:45-05:00
-image: /post/C/2025.jpg
+image: /post/Goals2025/2025.jpg
 hidden: false
 comments: false
 draft: false
 tags:
   - Goals
 ---
+### Intro
 Hey everyone! Looks like I remembered my password for this website. Just kidding of course but I did overhaul the workflow to make publishing to this site much easier.
 
 So where have I been. Well for the most part this year I was predominantly a Live Streamer for both [YouTube](https://www.youtube.com/@WilsonXp) and [Twitch](https://www.twitch.tv/thewilsonxp). I made streams mostly relegated to Shiny Hunting in Pokémon games and Let’s Plays of various games. 
@@ -18,17 +19,22 @@ The TLDR is that I will be back posting here more frequently with more tutorials
 Here is my goals for 2025
 https://youtu.be/6tTE35Kmdn4
 
-Written:
+Goals for 2025
+- Minimum 3 short form videos per week
+- Continue developing tools to bridge the gap between YouTube and Twitch livestreaming
+- One Dev channel video per month
+- One Main Channel video per month
+- Reaching Full Monetization on YouTube
+- Release a game. 
+
+### Written:
 To start off, thank you for making this year pretty good. Started off this year mostly lost in what i wanted to do. I always enjoyed streaming and deep down I knew making something out of this required a lot of work and damn large amount of luck. And at least on Twitch’s side that mostly payed off. The fact anyone wants to watch me is nice and again all i want to say is just thank you. 
 
 - State of the channel or channels per say.
 	- YouTube is going slow but that’s on me. I spent the past few months experimenting what works and what doesn’t and I think I have found out the ideal flow of what works for this YouTube channel. Since I am mostly a streamer, how you grow on YouTube is different from lets say a essay channel or daily uploader channel would do. Since your mostly either streaming or cultivating more experiences for your streams it’s hard to find time to put effort in what YouTube thinks is best to grow your channel which is making videos. So you must find a way to make up for that which for me is to do both things; Make stream vods approachable to the average viewer and to create shorts. The latter is imperative to grow if you do not find the time to make videos. Since stream discoverability is still very much dodo water, having shorts to shotgun you way through is so so important. Of course im not one to talk since you know im still a pretty small channel but since experiencing decent growth in the past few months i think im doing something right you know.
-- Videos in the pipeline
-	- January’s main project is Yoshi’s Island
-	- Feburary and March 
 - State of livestreaming
-	- The state of livestreaming online is pretty funny, I’d still say that Twitch has the best viewer expairence while YouTube has a better* discoverabiltiy. That one im still hesistant to say because starting a new channel with soley focusing streaming probably won’t get you anywhere. With the advent of vertical streaming that is supposidly a new avenue of getting new viewers to see your stream but with my personal expeurence I had seen conflicting results. On occusions A it does boost live viewership numbers, B. No real difference compared just doing vertical live or normal lives. C. It kinda canibalizes views, espeically sicne I have this weird bug were i can’t click on a live stream on mobile on my channel tab unless I click my profile picture on YT. So as of now I am just doing normal 16:9 view streams until YouTube sorts that system out.
-	- But that’s enough on YT how about Twitch. Honestly the Twitch live streaming expeirence has been immaculate dispite a few huge UI blenders on the mobile end. Seriously Twitch what are we doing here. But yeah the viewer expiernce is second to none. Channel point rewards are an amazing system to enhance my streams, it so good I had to port it to YouTube by using commands. Majority of the code belongs to Haunter handsome gentlemen on screen and I’ll leave it in the description if anyone wants to use it as well(https://extensions.streamer.bot/t/youtube-points-system-core/223) Also btw I can’t believe we hit Affilite status so quick! So once again thank you guys seriously! Now im not really thinking of pushing to Partner anytime soon but you never know so we shall see.
+	- The state of livestreaming online is pretty funny, I’d still say that Twitch has the best viewer experience while YouTube has a better* discoverability. That one im still hesitant to say because starting a new channel with solely focusing streaming probably won’t get you anywhere. With the advent of vertical streaming that is supposedly a new avenue of getting new viewers to see your stream but with my personal experience I had seen conflicting results. On occasions A it does boost live viewership numbers, B. No real difference compared just doing vertical live or normal lives. C. It kind of cannibalizes views, especially since I have this weird bug were i can’t click on a live stream on mobile on my channel tab unless I click my profile picture on YT. So as of now I am just doing normal 16:9 view streams until YouTube sorts that system out.
+	- But that’s enough on YT how about Twitch. Honestly the Twitch live streaming experience has been immaculate despite a few huge UI blenders on the mobile end. Seriously Twitch what are we doing here. But yeah the viewer experience is second to none. Channel point rewards are an amazing system to enhance my streams, it so good I had to port it to YouTube by using commands. Majority of the code belongs to Haunter handsome gentlemen on screen and I’ll leave it in the description if anyone wants to use it as well(https://extensions.streamer.bot/t/youtube-points-system-core/223) Also btw I can’t believe we hit Affiliate status so quick! So once again thank you guys seriously! Now im not really thinking of pushing to Partner anytime soon but you never know so we shall see.
 - Game development & dev channel.
 	- Now you guys may or may not know but I am a game developer and I wont lie I was slacking hard on that front in 2024. So much so that I am greatly disappointed in myself espiecally since that was what i went to college for you know. But i will say, I thinks some part’s of game design learnings went in to my stream with all of the goofy rewards but I want to go in all in on game making again. 
 	- I did create a second developer channel a little whiles back but don’t really have anything on it. That’s going to change, I will first upload some shorts tutorials on specific game engines like Unity since that’s my forte. But I want that channel to feature more than tutorials, I want model creations, personal project uploads and more on that channel.

@@ -27,7 +27,7 @@ Goals for 2025
 - Reaching Full Monetization on YouTube
 - Release a game. 
 
-### Written:
+### Written
 To start off, thank you for making this year pretty good. Started off this year mostly lost in what i wanted to do. I always enjoyed streaming and deep down I knew making something out of this required a lot of work and damn large amount of luck. And at least on Twitch’s side that mostly payed off. The fact anyone wants to watch me is nice and again all i want to say is just thank you. 
 
 - State of the channel or channels per say.

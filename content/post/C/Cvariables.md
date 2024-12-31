@@ -1,5 +1,5 @@
 ---
-title: "Unity Variable Data Types"
+title: Unity Variable Data Types
 description: Basic data types in Unity
 date: 2024-03-23T12:25:26-04:00
 image: /post/C/variables.jpg

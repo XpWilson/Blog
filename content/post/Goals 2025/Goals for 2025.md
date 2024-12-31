@@ -1,7 +1,7 @@
 ---
 title: Goals for 2025
 description: My goals for Next Year
-date: 2024-12-31T15:07:45-05:00
+date: 2024-12-31T11:07:45-05:00
 image: 
 hidden: false
 comments: false
